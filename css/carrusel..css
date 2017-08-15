@@ -1,0 +1,68 @@
+body{
+    background-image: url(../imagenes/movistar-1500x950.jpg);
+}
+.carrusel{
+    width: 80%;    
+    height: 98px;
+    margin: 0px auto;
+}
+
+.carrusel img{
+    max-width: 100%;
+    height: auto;
+}
+.formulario{
+    width: 30%;    
+    height: 150px;
+    margin: 0px auto 50px; 
+}
+h1{
+     width: 30%;    
+    height: 80%;
+    margin: 10px auto;
+    color: white;
+    text-align: center;
+    font-style: normal;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    
+}
+h3{
+    color: darkblue;
+    background-color: aqua;
+    border: 1px;
+    
+}
+#login{
+     width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+}
+label{
+    width: 25%;
+    display: inline-block;
+    float: left;
+}
+input['text'], input['password']{
+    width: %;
+    float: right;
+    
+}
+
+.form-group{
+    margin: 5px 0px;
+}
+#boton{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    background-color: aqua;
+}
+.carrusel{
+    text-align: center;
+    width: 60%;
+}
+
